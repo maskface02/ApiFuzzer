@@ -20,8 +20,10 @@ Install dependencies:
 pip install requests colorama
 ```
 **Usage**
+
 1-Put ApiFuzzer.py and wordlist.txt in the same folder.
 2-Run:
+
 ```python3 ApiFuzzer.py```
 **Example session**
 ```
